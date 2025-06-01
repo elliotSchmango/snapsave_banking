@@ -1,3 +1,29 @@
+# SnapSave Banking Application
+
+A full-stack digital banking platform simulation built for educational purposes. SnapSave supports core banking features including user registration, account management, fund transfers, and transaction history tracking.
+
+## Features
+
+- Secure user registration and authentication
+- Individual and joint bank account support
+- Deposit, withdraw, and transfer functionality with validation
+- Transaction history logging and account activity tracking
+- User profile management with editable information
+
+## Tech Stack
+
+- Frontend: HTML, CSS, JavaScript (Vanilla)
+- Backend: Java (Spring Boot)
+- Database: MySQL
+- Tools: Maven, JDBC, Tomcat
+
+## Key Components
+
+- Authentication module with session handling
+- Banking services layer for business logic (deposits, withdrawals, transfers)
+- DAO layer for secure database interaction
+- Exception handling for invalid operations and database errors
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
